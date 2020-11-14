@@ -232,3 +232,4 @@ class _NewScreenState extends State<NewScreen> {
 // child:
 // Text("Buy now".toUpperCase(), style: TextStyle(fontSize: 14)),
 // ),
+//
